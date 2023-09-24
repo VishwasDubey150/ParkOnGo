@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42810795670",
+    "project_id": "parkongo-f9d7e",
+    "storage_bucket": "parkongo-f9d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42810795670:android:22ddba24fbbb3a0ff784b7",
+        "android_client_info": {
+          "package_name": "com.example.parkongo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YC8squVMYou3gwJ3xFoW2WkHXa47P-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
