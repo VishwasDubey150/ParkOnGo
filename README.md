@@ -1,8 +1,7 @@
 
 # ParkOnGo
 
-ParkOnGo is an android application which is used for optimising the parking facilites for users.
-
+ ParkOnGo is an android application which will be used by the vehicle users to prebook parking spaces to help regulate traffic congestion caused by illegal on-street parking
 ## Tech stack 
 Kotlin , firebase , Python ,Html ,CSS ,JavaScript ,SQL.
 
